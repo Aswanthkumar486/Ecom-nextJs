@@ -1,0 +1,212 @@
+
+{
+  "navbar": {
+    "brand": "LuxeNex",
+    "items": [
+      { "name": "Home", "href": "home" },
+      { "name": "About", "href": "about" },
+      { "name": "Collections", "href": "products" },
+      { "name": "Services", "href": "services" },
+      { "name": "Contact", "href": "contact" }
+    ]
+  }
+,
+  "products":[
+  {
+    "id": "shirt-1",
+    "title": "Casual Shirt",
+    "category": "Shirts",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "pant-1",
+    "title": "Denim Jeans",
+    "category": "Pants",
+    "price": 1299,
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "dress-1",
+    "title": "Summer Dress",
+    "category": "Dresses",
+    "price": 1499,
+    "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "shoe-1",
+    "title": "Running Shoes",
+    "category": "Shoes",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "watch-1",
+    "title": "Luxury Watch",
+    "category": "Watches",
+    "price": 3499,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "dress-2",
+    "title": "Formal Gown",
+    "category": "Dresses",
+    "price": 4599,
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "shoe-2",
+    "title": "High Heels",
+    "category": "Shoes",
+    "price": 1999,
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "life-11",
+    "title": "Sunglasses",
+    "category": "Lifestyle",
+    "price": 599,
+    "image": "https://th.bing.com/th/id/OIP.6_fHkqFv8-T0z0SMqXaAzgHaE8?w=246&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  },
+  {
+    "id": "life-6",
+    "title": "Graphic T-Shirt",
+    "category": "Fashion",
+    "price": 799,
+    "image": "https://th.bing.com/th/id/OIP.ehaK4hx6rkIqzwHEk1FyfgHaJo?w=208&h=271&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+  }
+]
+,
+  "about": {
+    "title": "About Us",
+    "brand": "ShopNex",
+    "description": "Welcome to ShopNex – your premier destination for luxury fashion and lifestyle. Redefining excellence through curated collections and exceptional service.",
+    "whyChooseTitle": "Why Choose ShopNex?",
+    "features": [
+      {
+        "title": "5000+ Luxury Items",
+        "description": "Curated selection of premium products"
+      },
+      {
+        "title": "Encrypted Transactions",
+        "description": "Military-grade security for all purchases"
+      },
+      {
+        "title": "Global Express Shipping",
+        "description": "Free worldwide delivery on orders $500+"
+      },
+      {
+        "title": "VIP Support",
+        "description": "Dedicated personal shopping assistants"
+      }
+    ],
+    "image": {
+      "src": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f",
+      "alt": "Luxury Shopping Experience",
+      "width": 600,
+      "height": 400
+    },
+    "footerNote": "Committed to excellence since 2023 | Trusted by millions worldwide"
+  }
+  ,
+  "services": {
+    "title": "Our Services",
+    "brand": "ShopNex",
+    "description": "At ShopNex, we deliver excellence through premium solutions that redefine your shopping experience.",
+    "serviceList": [
+      {
+        "icon": "🚀",
+        "title": "Express Shipping",
+        "description": "Priority worldwide delivery within 3-5 business days for orders over $500"
+      },
+      {
+        "icon": "🔐",
+        "title": "Secure Transactions",
+        "description": "Military-grade encryption with multi-factor authentication protection"
+      },
+      {
+        "icon": "🔄",
+        "title": "VIP Returns",
+        "description": "Extended 30-day return policy with premium pickup service"
+      },
+      {
+        "icon": "🎁",
+        "title": "Concierge Service",
+        "description": "Personal shopping assistants available 24/7 for premium members"
+      }
+    ]
+  }
+  ,
+  "footer": {
+    "brand": "ShopNex",
+    "tagline": "Premium e-commerce solutions for modern shoppers.",
+    "newsletter": {
+      "placeholder": "Enter your email",
+      "buttonText": "Subscribe to Newsletter"
+    },
+    "exploreLinks": [
+      "New Arrivals",
+      "Best Sellers",
+      "Clearance",
+      "Blog"
+    ],
+    "supportLinks": [
+      "Order Tracking",
+      "FAQs",
+      "Privacy Policy",
+      "Terms of Service"
+    ],
+    "contact": {
+      "location": "New York, USA",
+      "email": "support@shopnex.com",
+      "phone": "+1 (555) 123-4567"
+    },
+    "socialMedia": [
+      {
+        "platform": "facebook",
+        "iconClass": "bi bi-facebook",
+        "url": "#"
+      },
+      {
+        "platform": "twitter",
+        "iconClass": "bi bi-twitter",
+        "url": "#"
+      },
+      {
+        "platform": "instagram",
+        "iconClass": "bi bi-instagram",
+        "url": "#"
+      },
+      {
+        "platform": "linkedin",
+        "iconClass": "bi bi-linkedin",
+        "url": "#"
+      }
+    ],
+    "copyright": {
+      "text": "© 2025 ShopNex. All rights reserved.",
+      "designer": "Vivid Labs"
+    }
+  }
+,"Heropage":[
+  {
+    "img": "https://images.unsplash.com/photo-1483985988355-763728e1935b",
+    "title": "New Arrivals",
+    "text": "Experience Luxury Redefined"
+  },
+  {
+    "img": "https://images.unsplash.com/photo-1544441893-675973e31985",
+    "title": "Exclusive Offers",
+    "text": "Premium Members Save Up To 70%"
+  }
+  ,
+  {
+    "img": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b",
+    "title": "VIP Collections",
+    "text": "Curated Luxury Accessories"
+  }
+]
+
+}
+
+
